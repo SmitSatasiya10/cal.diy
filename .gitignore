@@ -2,6 +2,7 @@
 
 # .env file
 .env
+*.env
 !packages/prisma/.env
 
 # dependencies
